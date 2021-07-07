@@ -1,4 +1,4 @@
-##Regression Vs. ANOVA:
+# Regression Vs. ANOVA:
 
 % Regression is helpful to validate a hypothesis of whether the hypothesis made is correct or not.
 
