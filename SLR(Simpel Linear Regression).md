@@ -55,11 +55,12 @@ b1 ~
 
 * Tests:
 
-A)H0 : β1 =c
+A) H0 : β1 =c
 
-H1 : β1 is not c
+   H1 : β1 is not c
 
 t*=(b1-c)/S{b1}
+
 
 1-Reject H0 if |t*|>t((1 – α)/2 ; n-2)
 
