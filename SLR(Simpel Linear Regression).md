@@ -55,7 +55,7 @@ b1 ~
 
 * Tests:
 
-H0 : β1 =c
+A)H0 : β1 =c
 
 H1 : β1 is not c
 
