@@ -1,6 +1,34 @@
 * Regression Vs. ANOVA:
 
-Regression is mainly used in order to make estimates or predictions for the dependent variable with the help of single or multiple independents variables, and ANOVA is used to find a common mean between variables of different groups.
+% Regression is helpful to validate a hypothesis of whether the hypothesis made is correct or not.
+% ANOVA is not used to make a prediction or estimate but to understand the relations between the set of variables.
+
+EXAMPLE:
+Regression:
+1-A paint company uses one of the derivatives of crude solvent & monomers as its raw material.Running a regression analysis between the price of that raw material and the price of Brent crude prices is helpful.
+2-In any business decision in order to validate a hypothesis that a particular action will lead to the increase in the profitability of a division can be validated based on the result of the regression between the dependent and independent variables.
+ANOVA:
+1-Studying the series of marks of students from different colleges in order to try to find out whether one student from one school is better than the other.
+2-Do two separate research team is researching different products not related to each other. ANOVA will help to find which one is providing better results.
+
+
+1- Definition:
+Regression is a very effective statistical method to establish the relationship between sets of variables.
+ANOVA is the short form of analysis of variance.It involves group not directly related to each other in order to find out whether there exist any common means.
+
+2- Nature of Variables:
+Regression is applied to independent variables or fixed ones.
+ANOVA is applied to variables which are random in nature.
+
+3- Types:
+Regression is mainly used in two forms, linear and multiple.
+The three popular types of ANOVA are a random effect, fixed effect , and mixed effect.
+
+4- Errors:
+Regression: Residuals (SSE)
+ANOVA: SSE, SSR, SSTo
+
+
 
 
 For more details see [This](https://www.wallstreetmojo.com/regression-vs-anova/) link.
