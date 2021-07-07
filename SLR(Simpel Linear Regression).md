@@ -1,10 +1,10 @@
-* Regression Vs. ANOVA:
+##Regression Vs. ANOVA:
 
 % Regression is helpful to validate a hypothesis of whether the hypothesis made is correct or not.
 
 % ANOVA is not used to make a prediction or estimate but to understand the relations between the set of variables.
 
-EXAMPLE:
+* EXAMPLE:
 
 Regression:
 
@@ -20,7 +20,7 @@ ANOVA:
 2-Do two separate research team is researching different products not related to each other. ANOVA will help to find which one is providing better results.
 
 
-Main Differences:
+* Main Differences:
 
 1- Definition:
 Regression is a very effective statistical method to establish the relationship between sets of variables.
