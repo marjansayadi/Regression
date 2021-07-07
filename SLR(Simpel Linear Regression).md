@@ -55,16 +55,16 @@ b1 ~
 
 * Tests:
 
-H0: Beta1=c
+H0 : β1 =c
 
-H1: Beta1!=c
+H1 : β1 is not c
 
 t*=(b1-c)/S{b1}
 
-1-reject H0 if |t*|>t(1-Alfa/2 ; n-2)
+1-reject H0 if |t*|>t((1 – α)/2 ; n-2)
 
-2-Reject H0 if c is not in the two-sided 100(1-Alfa)% CI.
-(b1 +\- t(1-Alfa/2 ; n-2)*S{b1})
+2-Reject H0 if c is not in the two-sided 100((1 – α))% CI for β1.
+(b1 +\- t((1 – α)/2 ; n-2)*S{b1})
 
-3-Reject H0 if p-value<Alfa.
+3-Reject H0 if p-value< α .
 (p-value= 2P[T>|t*|])
