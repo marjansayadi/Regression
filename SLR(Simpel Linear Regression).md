@@ -96,6 +96,6 @@ t*=(b1-c)/S{b1}
 
 Errors|Formulate|DF(Degree of Freedom)
 ----|----|----
-SSTO|*|n-1
 SSR|*|1
 SSE|*|n-2
+SSTO|*|n-1
