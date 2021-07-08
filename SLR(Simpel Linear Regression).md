@@ -59,7 +59,7 @@ b1 ~
 
   2. Reject H0 if c is not in the two-sided 100((1 – α))% CI for β1.
 
-     b1 +/- t((1 – α/2) ; n-2)*S{b1}
+     `b1 +/- t((1 – α/2) ; n-2)*S{b1}`
 
   3. Reject H0 if p-value< α .
 
@@ -74,7 +74,7 @@ b1 ~
 
 2. Reject H0 if c is not in the upper-bound 100((1 – α))% CI for β1.
 
-( -∞,b1 + t((1 – α) ; n-2)*S{b1})
+`( -∞,b1 + t((1 – α) ; n-2)*S{b1})`
 
 3. Reject H0 if p-value< α .
 
@@ -89,7 +89,7 @@ b1 ~
 
 2. Reject H0 if c is not in the lower-bound 100((1 – α))% CI for β1.
 
-   (b1 - t((1 – α) ; n-2)*S{b1} , ∞)
+   `(b1 - t((1 – α) ; n-2)*S{b1} , ∞)`
 
 3. Reject H0 if p-value< α .
 
@@ -99,6 +99,6 @@ b1 ~
 
 Errors|Formula|DF(Degree of Freedom)
 ----|----|----
-SSR|RSS=\sum \limits_{i=1}^{n} (y_i-f(x_i))^2|1
+SSR|$$\sum \limits_{i=1}^{n} (y_i-f(x_i))^2$$|1
 SSE|*|n-2
 SSTO|*|n-1
