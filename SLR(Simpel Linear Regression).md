@@ -47,7 +47,7 @@ b1 ~
 
 * Tests for checking if there is a linear relationship between x and y:
 
-`t*=(b1-c)/S{b1}`
+![Ttest](pictures/Ttest.png)
 
   - **A) H0 : β1 =c**
 
