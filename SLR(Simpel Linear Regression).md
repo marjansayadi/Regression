@@ -8,16 +8,16 @@
 
 Regression:
 
-1-A paint company uses one of the derivatives of crude solvent & monomers as its raw material.Running a regression analysis between the price of that raw material and the price of Brent crude prices is helpful.
+1. A paint company uses one of the derivatives of crude solvent & monomers as its raw material.Running a regression analysis between the price of that raw material and the price of Brent crude prices is helpful.
 
-2-In any business decision in order to validate a hypothesis that a particular action will lead to the increase in the profitability of a division can be validated based on the result of the regression between the dependent and independent variables.
+2. In any business decision in order to validate a hypothesis that a particular action will lead to the increase in the profitability of a division can be validated based on the result of the regression between the dependent and independent variables.
 
 
 ANOVA:
 
-1-Studying the series of marks of students from different colleges in order to try to find out whether one student from one school is better than the other.
+1. Studying the series of marks of students from different colleges in order to try to find out whether one student from one school is better than the other.
 
-2-Do two separate research team is researching different products not related to each other. ANOVA will help to find which one is providing better results.
+2. Do two separate research team is researching different products not related to each other. ANOVA will help to find which one is providing better results.
 
 
 * **Main Differences:**
@@ -36,9 +36,9 @@ Errors:|Residuals (SSE)|SSE, SSR, SSTo
 
 
 
-#####Regression:
+##### Regression:
 
-#**Parameters:**
+# **Parameters:**
 
 b0 ~
 
