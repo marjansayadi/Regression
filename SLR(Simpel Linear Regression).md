@@ -12,7 +12,6 @@
 
 2. In any business decision in order to validate a hypothesis that a particular action will lead to the increase in the profitability of a division can be validated based on the result of the regression between the dependent and independent variables.
 
-
   - ANOVA:
 
 1. Studying the series of marks of students from different colleges in order to try to find out whether one student from one school is better than the other.
