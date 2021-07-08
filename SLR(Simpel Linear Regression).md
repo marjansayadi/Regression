@@ -22,7 +22,7 @@ ANOVA:
 
 * **Main Differences:**
 
-    |Regression|ANOVA
+l|Regression|ANOVA
 ----|----------|-----
     |1- Definition:|hh
 
