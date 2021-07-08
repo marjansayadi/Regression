@@ -23,20 +23,14 @@ ANOVA:
 * **Main Differences:**
 
 *|Regression|ANOVA
----------|----------|-----
-1- Definition|Regression is a very effective statistical method to establish the relationship between sets of variables.|ANOVA is the short form of analysis of variance.It involves group not directly related to each other in order to find out whether there exist any common means.
+--|----------|-----
+Definition:|Regression is a very effective statistical method to establish the relationship between sets of variables.|ANOVA is the short form of analysis of variance.It involves group not directly related to each other in order to find out whether there exist any common means.
 
-2- Nature of Variables:
-Regression is applied to independent variables or fixed ones.
-ANOVA is applied to variables which are random in nature.
+Nature of Variables:|Regression is applied to independent variables or fixed ones.|ANOVA is applied to variables which are random in nature.
 
-3- Types:
-Regression is mainly used in two forms, linear and multiple.
-The three popular types of ANOVA are a random effect, fixed effect , and mixed effect.
+Types:|Regression is mainly used in two forms, linear and multiple.|The three popular types of ANOVA are a random effect, fixed effect , and mixed effect.
 
-4- Errors:
-Regression: Residuals (SSE)
-ANOVA: SSE, SSR, SSTo
+Errors:|Regression: Residuals (SSE)|ANOVA: SSE, SSR, SSTo
 
 
 
