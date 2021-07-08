@@ -27,7 +27,7 @@
 Definition:|is a very effective statistical method to establish the relationship between sets of variables.|is the short form of analysis of variance.It involves group not directly related to each other in order to find out whether there exist any common means.
 Nature of Variables:|is applied to independent variables or fixed ones.|is applied to variables which are random in nature.
 Types:|is mainly used in two forms, linear and multiple.|The three popular types of ANOVA are a random effect, fixed effect , and mixed effect.
-Errors:|Residuals (SSE)|SSE, SSR, SSTo
+Errors:|Residuals (SSE)|SSE, SSR, SSTO
 
 
 
@@ -99,6 +99,6 @@ b1 ~
 
 Errors|Formula|DF(Degree of Freedom)
 ----|----|----
-SSR|$$\sum \limits_{i=1}^{n} (y_i-f(x_i))^2$$|1
-SSE|*|n-2
-SSTO|*|n-1
+SSR | $$\sum\limits_{i=1}^{n} (y_i-f(x_i))^2$$ | 1
+SSE | $$Xni=1(yi − yˆi)2$$ | n-2
+SSTO | * | n-1
