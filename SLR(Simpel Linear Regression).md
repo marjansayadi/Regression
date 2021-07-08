@@ -23,7 +23,7 @@ ANOVA:
 * **Main Differences:**
 
 *|Regression|ANOVA
--|----------|-----
+---------|----------|-----
 1- Definition|Regression is a very effective statistical method to establish the relationship between sets of variables.|ANOVA is the short form of analysis of variance.It involves group not directly related to each other in order to find out whether there exist any common means.
 
 2- Nature of Variables:
