@@ -94,8 +94,8 @@ t*=(b1-c)/S{b1}
 
 # **ANOVA:**
 
-Errors|Formulate|DF(Degree of Freedom)
+Errors|Formula|DF(Degree of Freedom)
 ----|----|----
-SSR|*|1
+SSR|RSS=\sum \limits_{i=1}^{n} (y_i-f(x_i))^2|1
 SSE|*|n-2
 SSTO|*|n-1
