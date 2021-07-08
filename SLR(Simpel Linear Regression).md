@@ -24,10 +24,10 @@ ANOVA:
 
 *|Regression|ANOVA
 --|----------|-----
-Definition:|Regression is a very effective statistical method to establish the relationship between sets of variables.|ANOVA is the short form of analysis of variance.It involves group not directly related to each other in order to find out whether there exist any common means.
-Nature of Variables:|Regression is applied to independent variables or fixed ones.|ANOVA is applied to variables which are random in nature.
-Types:|Regression is mainly used in two forms, linear and multiple.|The three popular types of ANOVA are a random effect, fixed effect , and mixed effect.
-Errors:|Regression: Residuals (SSE)|ANOVA: SSE, SSR, SSTo
+Definition:|is a very effective statistical method to establish the relationship between sets of variables.|is the short form of analysis of variance.It involves group not directly related to each other in order to find out whether there exist any common means.
+Nature of Variables:|is applied to independent variables or fixed ones.|is applied to variables which are random in nature.
+Types:|is mainly used in two forms, linear and multiple.|The three popular types of ANOVA are a random effect, fixed effect , and mixed effect.
+Errors:|Residuals (SSE)|SSE, SSR, SSTo
 
 
 
