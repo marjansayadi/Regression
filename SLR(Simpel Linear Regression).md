@@ -36,9 +36,9 @@ Errors:|Residuals (SSE)|SSE, SSR, SSTo
 
 
 
-##### **Regression:**
+## **Regression:**
 
-##### Parameters:
+# Parameters:
 
 b0 ~
 
