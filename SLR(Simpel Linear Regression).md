@@ -90,4 +90,8 @@ t*=(b1-c)/S{b1}
 
 3. Reject H0 if p-value< α .
 
-   (p-value= 2P[T>t*])    
+   (p-value= 2P[T>t*])
+
+# **ANOVA:**
+
+**SSTO**=   DF= n-1
