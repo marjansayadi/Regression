@@ -1,4 +1,4 @@
-# Regression Vs. ANOVA:
+## Regression Vs. ANOVA:
 
 % Regression is helpful to validate a hypothesis of whether the hypothesis made is correct or not.
 
@@ -20,7 +20,7 @@ ANOVA:
 2-Do two separate research team is researching different products not related to each other. ANOVA will help to find which one is providing better results.
 
 
-* Main Differences:
+**Main Differences:**
 
 1- Definition:
 Regression is a very effective statistical method to establish the relationship between sets of variables.
@@ -41,13 +41,13 @@ ANOVA: SSE, SSR, SSTo
 
 
 
-For more details see [This](https://www.wallstreetmojo.com/regression-vs-anova/) link.
+**For more details see** [This](https://www.wallstreetmojo.com/regression-vs-anova/) link.
 
 
 
-# Regression:
+### Regression:
 
-* Parameters:
+**Parameters:**
 
 b0 ~
 
@@ -57,7 +57,7 @@ b1 ~
 
 t*=(b1-c)/S{b1}
 
-A) H0 : β1 =c
+**A)** H0 : β1 =c
 
     H1 : β1 is not c
 
@@ -73,7 +73,7 @@ b1 +/- t((1 – α/2) ; n-2)*S{b1}
 (p-value= 2P[T>|t*|])
 
 
-B)H0 : β1 >= c
+**B)** H0 : β1 >= c
 
   H1 : β1 < c
 
