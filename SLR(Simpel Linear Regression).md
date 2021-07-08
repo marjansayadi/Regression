@@ -47,20 +47,20 @@ b1 ~
 
 t*=(b1-c)/S{b1}
 
-**A)** H0 : β1 =c
+  - **A)** H0 : β1 =c
 
-H1 : β1 is not c
+    H1 : β1 is not c
 
 
-1. Reject H0 if |t*|>t((1 – α)/2 ; n-2)
+  1. Reject H0 if |t*|>t((1 – α)/2 ; n-2)
 
-2. Reject H0 if c is not in the two-sided 100((1 – α))% CI for β1.
+  2. Reject H0 if c is not in the two-sided 100((1 – α))% CI for β1.
 
-b1 +/- t((1 – α/2) ; n-2)*S{b1}
+  b1 +/- t((1 – α/2) ; n-2)*S{b1}
 
-3. Reject H0 if p-value< α .
+  3. Reject H0 if p-value< α .
 
-(p-value= 2P[T>|t*|])
+  (p-value= 2P[T>|t*|])
 
 
 **B)** H0 : β1 >= c
