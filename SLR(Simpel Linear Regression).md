@@ -1,15 +1,16 @@
 ## Regression Vs. ANOVA:
 
-- Regression is helpful to validate a hypothesis of whether the hypothesis made is correct or not.
+- `Regression` is helpful to validate a hypothesis of whether the hypothesis made is correct or not.
 
-- ANOVA is not used to make a prediction or estimate but to understand the relations between the set of variables.
+- `ANOVA` is not used to make a prediction or estimate but to understand the relations between the set of variables.
+<br />
 
-- EXAMPLES:
+###### EXAMPLES:
 
   - Regression:
 
-  1. A paint company uses one of the derivatives of crude solvent & monomers as its raw material.Running a regression analysis between the price of that raw material and the price of Brent crude prices is helpful.
-
+  1. A paint company uses one of the derivatives of crude solvent & monomers as its raw material. Running a regression analysis between the price of that raw material and the price of Brent crude prices is helpful.
+<br />
   2. In any business decision in order to validate a hypothesis that a particular action will lead to the increase in the profitability of a division can be validated based on the result of the regression between the dependent and independent variables.
 
   - ANOVA:
