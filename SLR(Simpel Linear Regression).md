@@ -20,8 +20,10 @@ ANOVA:
 2-Do two separate research team is researching different products not related to each other. ANOVA will help to find which one is providing better results.
 
 
-**Main Differences:**
+* **Main Differences:**
 
+              | Regression | ANOVA
+------------- | ---------- | -----
 1- Definition:
 Regression is a very effective statistical method to establish the relationship between sets of variables.
 ANOVA is the short form of analysis of variance.It involves group not directly related to each other in order to find out whether there exist any common means.
