@@ -42,10 +42,12 @@ Errors:|Residuals (SSE)|SSE, SSR, SSTo
 b0 ~
 
 b1 ~
+<br />
+<br />
 
 * Tests for checking if there is a linear relationship between x and y:
 
-t*=(b1-c)/S{b1}
+`t*=(b1-c)/S{b1}`
 
   - **A) H0 : β1 =c**
 
