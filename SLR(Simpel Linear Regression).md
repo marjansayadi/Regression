@@ -53,20 +53,51 @@ b0 ~
 
 b1 ~
 
-* Tests:
+* Tests for checking if there is a linear relationship between x and y:
+
+t*=(b1-c)/S{b1}
 
 A) H0 : β1 =c
 
-   H1 : β1 is not c
-
-t*=(b1-c)/S{b1}
+    H1 : β1 is not c
 
 
 1-Reject H0 if |t*|>t((1 – α)/2 ; n-2)
 
 2-Reject H0 if c is not in the two-sided 100((1 – α))% CI for β1.
 
-b1 +/- t((1 – α)/2 ; n-2)*S{b1}
+b1 +/- t((1 – α/2) ; n-2)*S{b1}
 
 3-Reject H0 if p-value< α .
+
 (p-value= 2P[T>|t*|])
+
+
+B) H0 : β1 >= c
+
+    H1 : β1 < c
+
+1-Reject H0 if t* < t((1 – α) ; n-2)
+
+2-Reject H0 if c is not in the upper-bound 100((1 – α))% CI for β1.
+
+( -∞,b1 + t((1 – α) ; n-2)*S{b1})
+
+3-Reject H0 if p-value< α .
+
+(p-value= 2P[T<t*])
+
+
+B) H0 : β1 <= c
+
+    H1 : β1 > c
+
+1-Reject H0 if t* > t((1 – α) ; n-2)
+
+2-Reject H0 if c is not in the lower-bound 100((1 – α))% CI for β1.
+
+(b1 - t((1 – α) ; n-2)*S{b1} , ∞)
+
+3-Reject H0 if p-value< α .
+
+(p-value= 2P[T>t*])    
