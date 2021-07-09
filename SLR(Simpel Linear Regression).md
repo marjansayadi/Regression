@@ -97,6 +97,7 @@ b1 ~
 
 # **ANOVA:**
 
+
 Errors|Formula|DF(Degree of Freedom)
 ----|----|----
 SSR | $\sum\limits_{i=1}^{n} (y_i-f(x_i))^2$ | 1
