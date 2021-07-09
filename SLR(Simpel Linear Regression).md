@@ -102,3 +102,5 @@ Errors|Formula|DF(Degree of Freedom)
 SSR | $\sum\limits_{i=1}^{n} (y_i-f(x_i))^2$ | 1
 SSE | $Xni=1(yi − yˆi)2$ | n-2
 SSTO | * | n-1
+
+Euler's formula is remarkable: $e^{i\pi} + 1 = 0$.
