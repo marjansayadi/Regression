@@ -93,12 +93,12 @@ b1 ~
 
 3. Reject H0 if p-value< α .
 
-   (p-value= $$2P[T>t*]$$ )
+   (p-value= $2P[T>t*]$ )
 
 # **ANOVA:**
 
 Errors|Formula|DF(Degree of Freedom)
 ----|----|----
-SSR | $$\sum\limits_{i=1}^{n} (y_i-f(x_i))^2$$ | 1
-SSE | $$Xni=1(yi − yˆi)2$$ | n-2
+SSR | $\sum\limits_{i=1}^{n} (y_i-f(x_i))^2$ | 1
+SSE | $Xni=1(yi − yˆi)2$ | n-2
 SSTO | * | n-1
